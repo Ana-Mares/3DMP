@@ -17,7 +17,7 @@ Here you can find the map of this repo:
    b. [Thingiverse Model](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%232/Thingiverse%20Model)
 
 
-2. [Homework #3](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%232)<br />
+2. [Homework #3](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%233)<br />
    a. [Chess Pieces Set](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%233/Chess%20Pieces%20Set)<br />
  	  - [Pawn](https://github.com/Ana-Mares/3DMP/blob/master/Homework%20%233/Chess%20Pieces%20Set/Pawn.stl) </br>
  	  - [Knight](https://github.com/Ana-Mares/3DMP/blob/master/Homework%20%233/Chess%20Pieces%20Set/Knight.stl) </br>
