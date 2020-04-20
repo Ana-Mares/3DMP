@@ -19,8 +19,8 @@ Here you can find the map of this repo:
 
 2. [Homework #3](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%233)<br/>
 	a. [Chess Pieces Set](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%233/Chess%20Pieces%20Set)<br/>
- 	 	 - [Pawn](https://github.com/Ana-Mares/3DMP/blob/master/Homework%20%233/Chess%20Pieces%20Set/Pawn.stl)<br/>
- 	 	 - [Knight](https://github.com/Ana-Mares/3DMP/blob/master/Homework%20%233/Chess%20Pieces%20Set/Knight.stl) </br>
+ 	 	  - [Pawn](https://github.com/Ana-Mares/3DMP/blob/master/Homework%20%233/Chess%20Pieces%20Set/Pawn.stl)<br/>
+ 	 	  - [Knight](https://github.com/Ana-Mares/3DMP/blob/master/Homework%20%233/Chess%20Pieces%20Set/Knight.stl) </br>
  		  - [Bishop](https://github.com/Ana-Mares/3DMP/blob/master/Homework%20%233/Chess%20Pieces%20Set/Bishop.stl) </br>
  		  - [Rook](https://github.com/Ana-Mares/3DMP/blob/master/Homework%20%233/Chess%20Pieces%20Set/Rook.stl) </br>
  		  - [Queen](https://github.com/Ana-Mares/3DMP/blob/master/Homework%20%233/Chess%20Pieces%20Set/Queen.stl) </br> 
@@ -28,7 +28,10 @@ Here you can find the map of this repo:
 	b. [Bonus : Chessboard](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%233/Chessboard)
 	
 3. [Homework #4](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%234)<br/>
-	a. [Scene With Twisted Column](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%234/Scene%20With%20Twisted%20Column)<br/>
-	b. [Scotch Yoke Mechanism](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%234/Scotch%20Yoke%20Mechanism)<br/>
+	a. [Rotational to Linear Motion and Vice-Versa mechanisms](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%234/Rotational%20to%20Linear%20Motion%20and%20Vice-Versa%20mechanisms)<br/>
+		- [Crank and Slotted Link](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%234/Rotational%20to%20Linear%20Motion%20and%20Vice-Versa%20mechanisms/Crank%20and%20Slotted%20Link)<br/>
+		- [Slider Crank Mechanism](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%234/Rotational%20to%20Linear%20Motion%20and%20Vice-Versa%20mechanisms/Slider%20Crank%20Mechanism)<br/>
+	b. [Scene With Twisted Column](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%234/Scene%20With%20Twisted%20Column)<br/>
+	c. [Scotch Yoke Mechanism](https://github.com/Ana-Mares/3DMP/tree/master/Homework%20%234/Scotch%20Yoke%20Mechanism)<br/>
 
 
