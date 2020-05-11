@@ -9,7 +9,7 @@ The final project that I chose for the 3DMP Course is a Spring Car, which I need
 	c.	[MyMiniFactory design](https://www.myminifactory.com/object/3d-print-dual-mode-spring-motor-rolling-chassis-26862) <br> <br>
 
 In this directory, you can currently find: <br>
-a. The [canvases](https://github.com/Ana-Mares/3DMP/tree/master/Final%20Project%20-%20Spring%20Car/Canvases) I made for the project.
-
+a. The [canvases](https://github.com/Ana-Mares/3DMP/tree/master/Final%20Project%20-%20Spring%20Car/Canvases) I made for the project. <br>
+b. The [f3d files](https://github.com/Ana-Mares/3DMP/tree/master/Final%20Project%20-%20Spring%20Car/f3d%20files) showing my progression over time. 
 
 
