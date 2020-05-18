@@ -29,7 +29,8 @@ Tasks:
 1. Do the tasks established with your teaching assistant at the Office Hours.
 2. Update the .f3d file.
 3. Update the readme, describing the current progress.
-4. Any extra work will be rewarded (we encourage you to design as much as you can regarding that in the last week you will have other exams and it will be hard to work on this project as well)
+4. Any extra work will be rewarded (we encourage you to design as much as you can regarding that in the last week you will have other exams and it will be hard to work on this project as well). <br>
+
 For this week, I continued modelling the components and making the necessary adjustments and fixes regarding positioning or dimensions (which was quite troublesome), making sure everything is perfectly in place and ready to be 3D printed. I added all the remaining components and also appearance, as you can see from this [f3d file](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/f3d%20files/Spring%20Car%20progress%2018.05.f3d). <br>
 I also took time to update the README file, so that my progression over time is more clear.
 
