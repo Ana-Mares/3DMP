@@ -3,15 +3,14 @@
 <b>Task:</b> Seeing how important it is to understand the meaning of Rapid Prototyping, the
 Final Project consists of creating a prototype of a specific mechanism.
 
-The final project that I chose for the 3DMP Course is a Spring Car, which I need to model starting from the following sources: <br>
+The final project that I chose for the 3DMP Course is a Spring Car, which I need to model starting from the following resources: <br>
 	a.	[Youtube video](https://www.youtube.com/watch?v=pX1OS6-TNw8&feature=youtu.be) <br>
 	b.	[Thingiverse design](https://www.thingiverse.com/thing:3328754) <br>
 	c.	[MyMiniFactory design](https://www.myminifactory.com/object/3d-print-dual-mode-spring-motor-rolling-chassis-26862) <br> 
 	My direct reference was the MyMiniFactory design.
-	
+	For crediting the creator of the design, I observed that the Thingiverse design creator is [NikoG](https://www.thingiverse.com/NikoG/about), who actually credits [Greg Zumwalt](https://www.myminifactory.com/users/gzumwalt) for the design. Greg Zumwalt is the creator of the MyMiniFactory design which I used as direct inspiration. The video is uploaded by [Prusa 3D by Josef Prusa](https://www.youtube.com/channel/UCLHAxAdvAKJY0niRJZRYMvg) on youtube and it is the design of NikoG, printed.<br>
 	I chose this design because I found it quite easy and fun to do. I also remembered playing with this kind of spring cars when I was a child and it was interesting for me to create a prototype of something that I am actually familiar with and to understand how it actually works.
 	This particular model of a spring car works based on friction, which triggers the spring. The spring changes its form a little bit and, when the car is places on the ground, without being touched, it will want to go beck to its initial state, therefore making the car move forwards. This happens when the car is rubbed with the ground or when the knob is rotated. Therefore, the mechanism can be "powered" from two sources.
-	
 	The components of this car are: <br>
 	- 1 [pawl](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Pawl.stl) <br>
 	- 1 [spring](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Spring.stl) <br>
@@ -19,18 +18,20 @@ The final project that I chose for the 3DMP Course is a Spring Car, which I need
 	- 4 gears: [large gear idler](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Large%20Gear%20Idler.stl), [small gear idler](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Small%20Gear%20Idler.stl), [rear axle gear](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Rear%20Axle%20Gear.stl), [gear pawl](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Gear%20Pawl.stl) <br>
 	- 1 chassis made of 2 components: [left chassis](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Left%20Chassis.stl) and [right chassis](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Right%20Chassis.stl) <br>
 	- 4 axles: [front axle](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Front%20Axle.stl), [rear axle](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Rear%20Axle.stl), [axle with knob](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Knob%20and%20Axle.stl), [axle gear idler - small](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/stl%20files/Axle%20Gear%20Idler%20-%20Small.stl). <br><br><br>
-	
 	This mechanism uses rotational joints: of course, each gear needs to rotate with their axles, as well as the rear wheels, which are moved because of the rotation of the rear axle. I did not use any joints for the front wheels, because they are not simply powered by the rotation of the components of the mechanisms (for example, if it were to rotate any of the gears, axles, the knob or the rear wheels, all these components would move together, but the front wheels wouldn't; they only rotate when in contact with the ground). The pawl and the knob also have a rotational motion. For the Fusion prototype, I didn't need to add any motion to the spring. <br><br>
-	
 	As stated earlier, the car's mechanism is powered by the rotation of the knob or oh the rear wheels (though if we would rotate any gear, the whole assembly would also move). Let's assume the rotation start from the knob. The know is rotated by hand. On its axle there is the pawl, which will rotate with the knob axle and determine the rotation of the gear outside of it. This gear starts to rotate, powering the other gears that are each a bit more in the rear part of the car. When the rear axle gear starts rotating, it rotates with the axle that it is fixated on, and the rotation of this axes makes the rear wheels to (surprise!) rotate! Besides this mechanism, we have the spring, that has two fixating parts: one fixated on the knob axle and one on an extrusion of the left chassis. Its position doesn't change, it doesn't really rotate as the other components do, but, as all springs do, it will change its shape a little bit, as it gets more tensioned while the center part)fixated on the knob axle) rotates. When there is no more rotation. the spring releases its tension, making the car move on its own.  <br>
 	If it were to power the mechanism by rotating it's rear wheels (let's say, rubbing it against a surface), the story would be simililar with the one already presented, only backwards. <br><br> 
-	
 In this directory, you can currently find: <br>
 a. The [canvases](https://github.com/Ana-Mares/3DMP/tree/master/Final%20Project%20-%20Spring%20Car/Canvases) I made for the project, with png files. <br>
 b. The [f3d files](https://github.com/Ana-Mares/3DMP/tree/master/Final%20Project%20-%20Spring%20Car/f3d%20files) showing my progression over time. <br>
 c. The [images and videos](https://github.com/Ana-Mares/3DMP/tree/master/Final%20Project%20-%20Spring%20Car/Images%20%26%20Videos) of the complete project, with png and mp4 files.<br>
 d. The [gcode file](https://github.com/Ana-Mares/3DMP/tree/master/Final%20Project%20-%20Spring%20Car/gcode%20files) made in PrusaSlicer with al the components.<br>
 e. The [stl files](https://github.com/Ana-Mares/3DMP/tree/master/Final%20Project%20-%20Spring%20Car/stl%20files) for each individual component and for the assembly as a whole.  <br><br>
+The software used for this project are
+	- [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) <br>
+	- [Prusa Slicer](https://www.prusa3d.com/prusaslicer/). <br>
+	- [Autodesk AutoCAD](https://www.autodesk.com/products/autocad/overview) (for the canvases).<br><br>
+
 
 ## Checkpoint 1
 <b>Tasks:</b>
@@ -77,4 +78,5 @@ There is a link where you can learn how to make a readme look like a readme: htt
 Good to do: (MENTION AT THE PRESENTATION ANY EXTRA WORK)
 	● Create the model having in mind that it needs to be 3D printed.
 (extra points)
-	● Be creative! (extra points)
+	● Be creative! (extra points) <br><br>
+	This final week I made the final changes and touch-ups, I made and re-made the joints and animations, making sure that the design would function as correctly as I could. I also did this huge README file that I am quite proud of.
