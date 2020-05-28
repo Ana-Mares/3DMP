@@ -7,9 +7,9 @@ The final project that I chose for the 3DMP Course is a Spring Car, which I need
 	a.	[Youtube video](https://www.youtube.com/watch?v=pX1OS6-TNw8&feature=youtu.be) <br>
 	b.	[Thingiverse design](https://www.thingiverse.com/thing:3328754) <br>
 	c.	[MyMiniFactory design](https://www.myminifactory.com/object/3d-print-dual-mode-spring-motor-rolling-chassis-26862) <br> 
-	My direct reference was the MyMiniFactory design.
+	My direct reference was the MyMiniFactory design. <br><br>
 ![](https://github.com/Ana-Mares/3DMP/blob/master/Final%20Project%20-%20Spring%20Car/Images%20%26%20Videos/Capture%20Image.png)
-	For crediting the creator of the design, I observed that the Thingiverse design creator is [NikoG](https://www.thingiverse.com/NikoG/about), who actually credits [Greg Zumwalt](https://www.myminifactory.com/users/gzumwalt) for the design. Greg Zumwalt is the creator of the MyMiniFactory design which I used as direct inspiration. The video is uploaded by [Prusa 3D by Josef Prusa](https://www.youtube.com/channel/UCLHAxAdvAKJY0niRJZRYMvg) on youtube and it is the design of NikoG, printed.<br><br>
+	<br>For crediting the creator of the design, I observed that the Thingiverse design creator is [NikoG](https://www.thingiverse.com/NikoG/about), who actually credits [Greg Zumwalt](https://www.myminifactory.com/users/gzumwalt) for the design. Greg Zumwalt is the creator of the MyMiniFactory design which I used as direct inspiration. The video is uploaded by [Prusa 3D by Josef Prusa](https://www.youtube.com/channel/UCLHAxAdvAKJY0niRJZRYMvg) on youtube and it is the design of NikoG, printed.<br><br>
 	I chose this design because I found it quite easy and fun to do. I also remembered playing with this kind of spring cars when I was a child and it was interesting for me to create a prototype of something that I am actually familiar with and to understand how it actually works. <br><br>
 	This particular model of a spring car works based on friction, which triggers the spring. The spring changes its form a little bit and, when the car is places on the ground, without being touched, it will want to go beck to its initial state, therefore making the car move forwards. This happens when the car is rubbed with the ground or when the knob is rotated. Therefore, the mechanism can be "powered" from two sources.
 	The components of this car are: <br>
@@ -79,5 +79,5 @@ There is a link where you can learn how to make a readme look like a readme: htt
 Good to do: (MENTION AT THE PRESENTATION ANY EXTRA WORK) <br>
 	● Create the model having in mind that it needs to be 3D printed.(extra points) <br>
 	● Be creative! (extra points) <br><br>
-	This final week I made the final changes and touch-ups, I made and re-made the joints and animations, making sure that the design would function as correctly as I could. I also did this huge README file that I am quite proud of.
+	This final week I made the final changes and touch-ups, I made and re-made the joints and animations, making sure that the spring car would function as correctly as possible. I also did this huge README file that I am quite proud of.
 
